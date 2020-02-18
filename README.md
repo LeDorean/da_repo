@@ -1,3 +1,3 @@
-# da_irepo
+# da_repo
 
 the greatest repo to ever be
